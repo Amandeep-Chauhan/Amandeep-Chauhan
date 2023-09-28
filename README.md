@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Amandeep-Chauhan
 - 👀 I’m a passionate Frontend Engineer.
-- 🌱 I’m currently learning to improve my efficiency.
+- 🚀 Crafting pixel-perfect web experiences |🌟 Code Artisan | 💻 Building the web of tomorrow
 <!-- - 📫 How to reach me ... -->
